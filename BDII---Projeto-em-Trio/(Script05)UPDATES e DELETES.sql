@@ -1,5 +1,5 @@
 -- ================================================
--- 5. UPDATES e DELETES (DML) - ADAPTADO PARA EDITORA
+-- 5. UPDATES e DELETES (DML) - 
 -- ================================================
 
 USE db_editora_simples;
