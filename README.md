@@ -4,7 +4,7 @@
 
 ## Intregrantes do Grupo:
 
-- [Bruno Augosto](https://github.com/BrunoAugusto290907)
+- [Bruno Augusto](https://github.com/BrunoAugusto290907)
 - [Rafael Henrique](https://github.com/RafaelHK43)
 - [Vinicios Trezena](https://github.com/trezena300/trezena300)
 
